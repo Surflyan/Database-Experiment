@@ -1,0 +1,8 @@
+python lab2.py student_query -q 1 -p 001
+python lab2.py student_query -q 2 -p 98020101
+python lab2.py student_query -q 3 -p 数据库
+python lab2.py student_query -q 4 -p 张三
+python lab2.py student_query -q 5 -p 80
+python lab2.py student_query -q 6 -p 80
+python lab2.py student_query -q 7 -p 张三
+python lab2.py student_query -q 8 -p 数据库
